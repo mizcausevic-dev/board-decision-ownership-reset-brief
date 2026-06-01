@@ -1,0 +1,238 @@
+[
+  {
+    "id": "ai-owner-reset",
+    "lane": "AI governance and agent readiness",
+    "track": "AI_GOVERNANCE",
+    "action": "RESET_OWNER",
+    "ownershipTheme": "AI approvals are moving fast enough to matter, but final accountability is still rotating between policy, security, and product.",
+    "boardQuestion": "Which AI lane needs one named final owner before another expansion packet reaches the board?",
+    "owner": "Chief AI Officer",
+    "audience": "Board risk committee",
+    "currentPosture": "The AI operating estate is credible, but the final approver keeps changing as policy and release pressure collide.",
+    "resetHeadline": "AI ownership reset is overdue because final approval is still rotating.",
+    "ownershipSignal": "The same launch packet keeps getting reopened because no one can prove who had the final call.",
+    "ownerOfRecord": "AI governance operations lead",
+    "requiredEvidence": [
+      "owner-of-record table",
+      "approval history",
+      "reopened packet log"
+    ],
+    "relatedSurfaces": [
+      "scorecard.kineticgain.com",
+      "memo.kineticgain.com",
+      "agents.kineticgain.com"
+    ],
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "decisionHandoffs": 5,
+    "unresolvedOwners": 2,
+    "approvalConflicts": 3,
+    "ownershipCoverageScore": 55,
+    "decisionClarityScore": 58,
+    "boardConfidenceScore": 62,
+    "valueAtStakeMillions": 29,
+    "headline": "AI lanes need a visible owner reset before the next board packet expands scope.",
+    "narrative": "The board should force one named AI owner-of-record and retire the rotating approval pattern.",
+    "nextMove": "Reset final AI ownership to one accountable executive before the next launch packet."
+  },
+  {
+    "id": "identity-approver-clarity",
+    "lane": "Identity and access governance",
+    "track": "IDENTITY",
+    "action": "CLARIFY_APPROVER",
+    "ownershipTheme": "Identity exceptions are well known, but the last approver is still unclear whenever audit and security disagree.",
+    "boardQuestion": "Which identity lane needs a cleaner final approver before another exception window opens?",
+    "owner": "Chief Information Security Officer",
+    "audience": "Audit committee",
+    "currentPosture": "The control posture is strong, but the final signoff path is still fuzzy when exception packets cross committees.",
+    "resetHeadline": "Identity needs a board-visible final approver, not another shadow reviewer.",
+    "ownershipSignal": "Audit and security both think they own the same final call.",
+    "ownerOfRecord": "Identity governance director",
+    "requiredEvidence": [
+      "approver matrix",
+      "exception closeout chain",
+      "committee override log"
+    ],
+    "relatedSurfaces": [
+      "certs.kineticgain.com",
+      "guest.kineticgain.com",
+      "protect.kineticgain.com"
+    ],
+    "companyTags": [
+      "Microsoft",
+      "Entra",
+      "Okta"
+    ],
+    "decisionHandoffs": 4,
+    "unresolvedOwners": 3,
+    "approvalConflicts": 2,
+    "ownershipCoverageScore": 51,
+    "decisionClarityScore": 50,
+    "boardConfidenceScore": 54,
+    "valueAtStakeMillions": 18,
+    "headline": "Identity owner clarity is now the missing control, not another policy layer.",
+    "narrative": "The board should clarify the final approver on identity exceptions before more edge cases accumulate.",
+    "nextMove": "Document one final identity approver and remove duplicate signoff paths."
+  },
+  {
+    "id": "revenue-handoff-collapse",
+    "lane": "Revenue systems and reporting",
+    "track": "REVENUE_SYSTEMS",
+    "action": "COLLAPSE_HANDOFF",
+    "ownershipTheme": "Revenue disputes are not lacking dashboards; they are lacking a short owner path that survives forecast pressure.",
+    "boardQuestion": "Which reporting lane needs fewer handoffs so the board packet stops reopening every cycle?",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "currentPosture": "Forecast and attribution debates keep reentering the board packet because the owner path is too long.",
+    "resetHeadline": "Revenue decision chains need fewer handoffs and one stable owner path.",
+    "ownershipSignal": "Commercial and finance reviewers keep reopening the same packet after separate signoffs.",
+    "ownerOfRecord": "Revenue systems lead",
+    "requiredEvidence": [
+      "approval timestamp chain",
+      "reopened packet log",
+      "forecast signoff flow"
+    ],
+    "relatedSurfaces": [
+      "powerbi.kineticgain.com",
+      "yield.kineticgain.com",
+      "martech.kineticgain.com"
+    ],
+    "companyTags": [
+      "Power BI",
+      "Tableau",
+      "VWO"
+    ],
+    "decisionHandoffs": 5,
+    "unresolvedOwners": 1,
+    "approvalConflicts": 3,
+    "ownershipCoverageScore": 49,
+    "decisionClarityScore": 53,
+    "boardConfidenceScore": 50,
+    "valueAtStakeMillions": 26,
+    "headline": "Revenue handoffs are the board problem now, not instrumentation depth.",
+    "narrative": "Collapse the revenue signoff chain before more forecast packets return to the agenda.",
+    "nextMove": "Cut one finance-commercial handoff and reissue the owner-of-record model."
+  },
+  {
+    "id": "fintech-pause-scope",
+    "lane": "FinTech diligence and transaction controls",
+    "track": "FINTECH",
+    "action": "PAUSE_SCOPE",
+    "ownershipTheme": "Capital-sensitive lanes are accumulating too many decision owners to expand safely.",
+    "boardQuestion": "Which capital-sensitive lane should pause scope until ownership stops diffusing?",
+    "owner": "Chief Financial Officer",
+    "audience": "Investment committee",
+    "currentPosture": "Treasury, KYC, and merchant-review packets are all credible alone, but ownership resets are still incomplete across the combined path.",
+    "resetHeadline": "FinTech scope should pause until final ownership stops moving.",
+    "ownershipSignal": "Multiple owners still believe they have veto rights over the same transaction-control packet.",
+    "ownerOfRecord": "Finance transformation lead",
+    "requiredEvidence": [
+      "owner overlap table",
+      "approval conflict log",
+      "packet veto history"
+    ],
+    "relatedSurfaces": [
+      "payments.kineticgain.com",
+      "merchant.kineticgain.com",
+      "treasury.kineticgain.com",
+      "kyc.kineticgain.com"
+    ],
+    "companyTags": [
+      "Stripe",
+      "Adyen",
+      "Plaid"
+    ],
+    "decisionHandoffs": 6,
+    "unresolvedOwners": 3,
+    "approvalConflicts": 4,
+    "ownershipCoverageScore": 44,
+    "decisionClarityScore": 45,
+    "boardConfidenceScore": 46,
+    "valueAtStakeMillions": 34,
+    "headline": "FinTech ownership diffusion is now a scope limiter.",
+    "narrative": "The board should pause new FinTech scope until one accountable owner path exists.",
+    "nextMove": "Pause expansion and reset one owner path across treasury, KYC, and merchant review."
+  },
+  {
+    "id": "procurement-reference-owner",
+    "lane": "Procurement, trust, and buyer proof",
+    "track": "PROCUREMENT",
+    "action": "RESET_OWNER",
+    "ownershipTheme": "Procurement is cleaner than most lanes and can provide the reference ownership model.",
+    "boardQuestion": "Which lane already demonstrates the cleanest owner-of-record path and can be copied elsewhere?",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "currentPosture": "Procurement clears quickly because owner-of-record discipline is stronger and signoff conflicts are rare.",
+    "resetHeadline": "Procurement shows the ownership-reset pattern the rest of the estate should copy.",
+    "ownershipSignal": "Trust packets close cleanly because the commercial owner and trust owner do not fight over final authority.",
+    "ownerOfRecord": "Trust center owner",
+    "requiredEvidence": [
+      "owner matrix",
+      "packet closeout time",
+      "signoff conflict count"
+    ],
+    "relatedSurfaces": [
+      "procurement.kineticgain.com",
+      "questionnaire.kineticgain.com",
+      "trust.kineticgain.com"
+    ],
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Google"
+    ],
+    "decisionHandoffs": 2,
+    "unresolvedOwners": 0,
+    "approvalConflicts": 0,
+    "ownershipCoverageScore": 86,
+    "decisionClarityScore": 84,
+    "boardConfidenceScore": 82,
+    "valueAtStakeMillions": 13,
+    "headline": "Procurement already behaves like an ownership-reset reference lane.",
+    "narrative": "Use procurement as the model for board-safe owner-of-record discipline elsewhere.",
+    "nextMove": "Copy the procurement owner-of-record model into one constrained adjacent lane."
+  },
+  {
+    "id": "biotech-owner-record",
+    "lane": "Biotech and diagnostics control lanes",
+    "track": "BIOTECH",
+    "action": "RESET_OWNER",
+    "ownershipTheme": "Regulated lanes still hand packets between quality, compliance, and operations without one durable final owner.",
+    "boardQuestion": "Which regulated lane needs a formal owner-of-record before the board extends another control family?",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "currentPosture": "The biotech stack is convincing, but the final owner still changes too often as CAPA, safety, and specimen reviews intersect.",
+    "resetHeadline": "Biotech needs a durable owner-of-record across its regulated decision chain.",
+    "ownershipSignal": "CAPA and specimen packets keep switching final owner as they move between quality and compliance.",
+    "ownerOfRecord": "GxP program manager",
+    "requiredEvidence": [
+      "owner change log",
+      "regulated approval chain",
+      "packet reassignment history"
+    ],
+    "relatedSurfaces": [
+      "assay.kineticgain.com",
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com",
+      "safety.kineticgain.com"
+    ],
+    "companyTags": [
+      "LabVantage",
+      "Veeva",
+      "Thermo Fisher"
+    ],
+    "decisionHandoffs": 5,
+    "unresolvedOwners": 2,
+    "approvalConflicts": 3,
+    "ownershipCoverageScore": 47,
+    "decisionClarityScore": 49,
+    "boardConfidenceScore": 52,
+    "valueAtStakeMillions": 27,
+    "headline": "Biotech decision continuity depends on a true owner-of-record reset.",
+    "narrative": "The board should require one regulated owner-of-record before adding another biotech surface.",
+    "nextMove": "Reset the regulated owner path across quality, compliance, and operations."
+  }
+]
